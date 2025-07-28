@@ -150,10 +150,10 @@ This project demonstrates how to build, train, evaluate, and deploy a Convolutio
 ## 📈 Example Outputs
 
 - **Loss & Accuracy Curves:**  
-  ![Loss and Accuracy Curves](path/to/loss_accuracy_plot.png)
+  ![Loss and Accuracy Curves](https://github.com/Ameyo10/Plant-Disease-detectection-model-using-CNN/blob/main/Loss%20and%20Accuracy%20curve%20of%20my%20model_training.png)
 
 - **Confusion Matrix:**  
-  ![Confusion Matrix](path/to/confusion_matrix.png)
+  ![Confusion Matrix]()
 
 ---
 
