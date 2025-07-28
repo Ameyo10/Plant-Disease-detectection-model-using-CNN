@@ -71,7 +71,7 @@ This project demonstrates how to build, train, evaluate, and deploy a Convolutio
   ![Loss and Accuracy Curves](path/to/loss_accuracy_plot.png)
 
 - **Confusion Matrix:**  
-  ![Confusion Matrix](path/to/confusion_matrix.png)
+  ![Confusion Matrix](https://github.com/Ameyo10/Plant-Disease-detectection-model-using-CNN/blob/main/Confusion%20Matrix%20of%20my%20model.png)
 
 ---
 
